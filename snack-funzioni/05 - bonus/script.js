@@ -7,7 +7,7 @@ e buonasera se è sera (oltre le 17)
 
 const name = 'Mario';
 const time = new Date().getHours();
-console.log(time);
+console.log('Sono le ore:', time);
 
 // Dichiara la funzione qui.
 function printHello(personName) {
